@@ -6,7 +6,7 @@ The methods translating dBase-to-DataFrame, DataFrame-to-dBase.
 
 ```python
 # read dBase file as DataFrame
-dbf_df = dbf2df('./sample.dbf')
+dbf_df = dbf2df('./sample.dbf') # pd.DataFrame
 ```
 
 ```python
